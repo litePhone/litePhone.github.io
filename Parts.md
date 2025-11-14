@@ -20,9 +20,9 @@ Display
 
 ILI9341 with XPT2046 Touch Controller is recommended as it is what I provide the code for
 
-![](https://www.liteph.one/wp-content/uploads/2025/05/image-3.png)
+![](imgs/Parts/image-3.png)
 
-![](https://www.liteph.one/wp-content/uploads/2025/05/image-2.png)
+![](imgs/Parts/image-2.png)
 
 [Here](https://www.aliexpress.us/w/wholesale-ili9341-xpt2046.html)
 
@@ -32,9 +32,9 @@ The labs are built around the ESP32-S3 Devkit with 44 Pins
 
 Make sure to get one with pre-soldered pins to make your life easier.
 
-![](https://www.liteph.one/wp-content/uploads/2025/05/2.avif)
+![](imgs/Parts/2.avif)
 
-![](https://www.liteph.one/wp-content/uploads/2025/05/1-2.avif)
+![](imgs/Parts/1-2.avif)
 
 [Here](https://www.aliexpress.us/item/3256804864979510.html?utparam-url=scene%3Asearch%7Cquery_from%3A)
 
@@ -46,13 +46,13 @@ Any 8 Ohm 0.5W speaker should do the trick
 
 This speaker should work as it has DuPont connector available
 
-![](https://www.liteph.one/wp-content/uploads/2025/05/image-4.png)
+![](imgs/Parts/image-4.png)
 
 Any microphone should work this may be better as it has a built in amplifier if it does not snip the microphone off and use it as is
 
 [Here](https://www.aliexpress.us/item/3256806282330150.html?utparam-url=scene%3Asearch%7Cquery_from%3A)
 
-![](https://www.liteph.one/wp-content/uploads/2025/05/image-5.png)
+![](imgs/Parts/image-5.png)
 
 Charging (Optional)
 
@@ -60,13 +60,13 @@ If you would like to add charging to your project you can use a LX-LCBST module
 
 It is cheap and doesn’t not support Fast Chargers but it gets the job done
 
-![](https://www.liteph.one/wp-content/uploads/2025/05/image-6.png)
+![](imgs/Parts/image-6.png)
 
 [Here](https://www.aliexpress.us/item/3256804947537890.html)
 
 I recommend usage of a 1000mah Battery
 
-![](https://www.liteph.one/wp-content/uploads/2025/05/image-7.png)
+![](imgs/Parts/image-7.png)
 
 This will require soldering
 
