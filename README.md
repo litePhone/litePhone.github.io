@@ -1,20 +1,46 @@
-##[Parts](/Parts)
-Parts req. for lab completion
+# litePhone Labs
 
-##[Lab 1](/Lab1) 
-Introduction lab; the transitional lab from Computer Hardware to Computer Architecture. Introduces the use of GSM AT commands and a refresher on communication with Espressif Systems and Arduino style 32-bit MCU.
+A comprehensive series of hands-on laboratory exercises for building a functional ESP32-based mobile device from the ground up.
 
-##[Lab 2](/Lab2)
-The **TFT\_eSPI** library is a widely adopted tool in the embedded systems world, especially among developers working with 32-bit microcontrollers like the **ESP32**. This lab will introduce you to core concepts in UI rendering, event-driven design, and SPI-based hardware control. You will also use **EEZ Studio**, a modern UI prototyping environment, and **LVGL (Light and Versatile Graphics Library)** to design interactive components.
+---
 
-##[Lab 3](/Lab3)
-Learn how to use simple Computer Aided Design (CAD) and Computer Aided Manufacturing (CAM) software to design and FDM print a simple enclosure for your litePhone.
+## [📋 Parts](/Parts)
+**Components required for lab completion**
 
-##[Lab 4](/Lab4)
-Learn how to utilize Electronic Design Automation (EDA) software like EasyEDA to design your custom PCB and use JLCPCB’s SMT (Surface-Mount Technology) manufacturing service to fabricate your board.
+---
 
-##[Lab 5](/Lab5)
-Learn how to create a streamlined, low distraction User Interface (UI) using the TFT_eSPI library and EEZ Studio, designed specifically for making phone calls with your ESP32-based litePhone.
+## [🔧 Lab 1 – Microcontroller Fundamentals](/Lab1)
+Introduction to the transition from Computer Hardware to Computer Architecture. Gain hands-on experience with GSM AT commands and communication protocols for Espressif Systems and Arduino-compatible 32-bit MCUs.
 
-##[Lab 6](/Lab6)
-Create a functional text-messaging interface and a utilities application of your choosing for your ESP32-based litePhone using EEZ Studio and the TFT_eSPI library.
+## [🎨 Lab 2 – UI Development & Graphics](/Lab2)
+Master embedded UI rendering using **TFT_eSPI**, a widely-adopted library for 32-bit microcontrollers like the **ESP32**. Learn event-driven design, SPI hardware control, and modern UI prototyping with **EEZ Studio** and **LVGL (Light and Versatile Graphics Library)**.
+
+## [🖨️ Lab 3 – 3D Design & Manufacturing](/Lab3)
+Explore CAD/CAM software to design and FDM 3D-print a custom enclosure for your litePhone. Gain practical experience in mechanical design and rapid prototyping.
+
+## [📐 Lab 4 – PCB Design & Fabrication](/Lab4)
+Learn Electronic Design Automation (EDA) using **EasyEDA** to design custom PCBs. Leverage JLCPCB's SMT (Surface-Mount Technology) service to bring your designs to life.
+
+## [📱 Lab 5 – Phone Call Interface](/Lab5)
+Build a streamlined, distraction-free calling interface using **TFT_eSPI** and **EEZ Studio**, optimized specifically for voice communication on your ESP32-based litePhone.
+
+## [💬 Lab 6 – Messaging & Utilities](/Lab6)
+Create a functional text-messaging interface and develop a custom utilities application of your choice using **EEZ Studio** and the **TFT_eSPI** library.
+
+---
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0** (GNU GPL v3).
+
+You are free to:
+- ✅ Use this software for any purpose
+- ✅ Study and modify the source code
+- ✅ Distribute copies of the software and your modifications
+
+Under the condition that:
+- 📋 You include a copy of the license with any distribution
+- 📋 You disclose the source code when distributing the software
+- 📋 Any modifications or derivative works must also be licensed under GNU GPL v3
+
+For more information, see the [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html)
