@@ -1,11 +1,11 @@
 @import "{{ site.theme }}";
 
 @font-face {
-  font-family: 'YourFontName';
-  src: url('/fonts/yourfont.woff2') format('woff2'),
-       url('/fonts/yourfont.woff') format('woff');
+  font-family: 'Roboto';
+  src: url('/fonts/roboto.woff2') format('woff2'),
+       url('/fonts/roboto.woff') format('woff');
 }
 
 body {
-  font-family: 'YourFontName', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
