@@ -97,6 +97,8 @@ void sendATCommand(const char* command) {
 
 6\. Read the AT Command guide to figure out how to do more with the modem!
 
+[Modem Command Manual](/SIM7000-Series_AT-Command-Manual_V1.04.pdf)
+
 ## Part 3 – Send a Text Message
 
 ___
