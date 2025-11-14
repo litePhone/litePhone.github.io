@@ -21,19 +21,19 @@ ___
     -   Or use the keycombo Ctrl + Shift + B
     
 
-![](https://www.liteph.one/wp-content/uploads/2025/02/image.png)
+![](imgs/image.png)
 
 4\. Search ‘Esp32’
 
 5\. Install version 2.0.11 of ‘esp32’ by Espressif Systems
 
-![](https://www.liteph.one/wp-content/uploads/2025/02/image-1.png)
+![](imgs/image-1.png)
 
 6\. Plug your ESP32 into your computer
 
 7\. Once plugged in select your board from the Upper Toolbar if it is not selected for you already
 
-![](https://www.liteph.one/wp-content/uploads/2025/02/image-2.png)
+![](imgs/image-2.png)
 
 ## Part 2 – Modem Setup
 
